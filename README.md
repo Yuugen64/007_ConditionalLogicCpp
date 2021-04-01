@@ -75,6 +75,8 @@ No prerequisites.
 - Learned about Dynamic Declaration.
 - Set up repository for this little program.
 - Updated README.
+- [001-0.0.1]:: INITIAL COMMIT >> Updated readme, added icon, created base file.
+- [002-0.0.2]:: Code Addition >> Fixed the core program file extension so it's actually a c++ file. Added the beginnings of the program in the form of getting player name, and player class. Attempted input validation but not currently skilled enough.
 
 ### Main Branch:
 - Where the core project is located.
